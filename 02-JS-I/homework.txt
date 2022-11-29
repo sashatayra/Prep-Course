@@ -1,0 +1,21 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+1. Variables:
+Una variable es un espacio reservado en la memoria en donde guardaremos algún tipo de dato, y su valor puede variar con el tiempo y transcurso de nuestra aplicación, por eso la llamamos "variable".
+
+2. Strings:
+Las variables pueden tener como valor diferentes tipos de datos. Los más comunes son numeros (cualquier tipo de numero), booleanos (true o false), y strings. String significa cadena de texto, y es un valor compuesto por uno o más caracteres, que van encerrados entre comillas. Por ejemplo "Sasha", "Hola SoyHenry", "S".
+
+3.Funciones:
+Las funciones nos permiten agrupar codigo, lo guarda y luego podemos ejecutarlo. Es una porcion de codigo que podemos utilizar muchas veces. 
+
+4. Declaraciones if:
+"If" es una palabra clave reservada de JavaScript que se utiliza para establecer una condicion: "Si sos mayor de edad, entonces podes manejar." Es una estructura que ejecuta un bloque de codigo si la condicion es verdadera.
+
+5.Valores booleanos:
+Cuando trabajamos con este tipo de condiciones nos encontramos con nuevos tipos de valores posibles dentro de un programa, que son los valores booleanos. Estos pueden tomar básicamente dos valores posibles, true o false, verdadero o falso. Hacemos distintas evaluaciones sobre algo y según eso hacemos una cosa o no. Es decir, si la evaluación (por ej, hace frío?) es verdadera, hacemos una cosa; y si es falsa hacemos o no otra.
